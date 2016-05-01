@@ -1,15 +1,19 @@
-{ "name" : "WBA2_Aufgabe_1"
-, "email" : "s_owtschinnikow@gmx.de"
-, "version" : "1.0"
-, "description" : "Die erste Aufgabe für WBA2 SS16"
-, "keywords" : "Wolkenkratzer sortieren"
-, "homepage" : "https://github.com/sowtschi/WBA2"
-, "bugs" : "https://github.com/sowtschi/WBA2/issues"
-, "main" : "Aufgabe_1.json"
-, "author": "Steffen Owtschinnikow",
-},
+{
+  "name" : "WBA2_Aufgabe_1", 
+  "email" : "s_owtschinnikow@gmx.de", 
+  "version" : "1.0",
+  "description" : "Die erste Aufgabe für WBA2 SS16",
+  "keywords" : "Wolkenkratzer sortieren",
+  "homepage" : "https://github.com/sowtschi/WBA2",
+  "bugs" : "https://github.com/sowtschi/WBA2/issues",
+  "main" : "Aufgabe_1.json",
+  "author" : "Steffen Owtschinnikow",
 
-"repository": {
-"type": "git"
-,"url": "https://github.com/zvaehn/wba2-kickoff-aufgaben.git"
-},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sowtschi/WBA2.git"
+  },
+  "dependencies": {
+    "chalk": "*"
+  }
+}
